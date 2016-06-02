@@ -21,7 +21,6 @@ s.author             = { "mars182838" => "wj182838@126.com" }
 s.platform = :ios
 s.ios.deployment_target = '8.0'
 s.source       = { :git => "https://github.com/Mars182838/WJNumericKeyboard.git", :tag => "1.1.0" }
-s.source_files  = "WJCycleScrollView"
 s.requires_arc = true
 s.source_files  = "WJNumericKeyboard/**/*.{h,m}"
 end
